@@ -1,0 +1,8 @@
+Performance Metrics for YOLOv8:
+----------------------------------------
+mAP50: 0.8646
+mAP50-95: 0.6995
+precision: 0.8615
+recall: 0.7981
+inference_time: 3.9971
+training_time: 1138.7878
