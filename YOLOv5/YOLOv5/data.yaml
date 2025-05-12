@@ -1,0 +1,16 @@
+path: /content/Weapon-Detection/Weapon Project/weapon_detection
+train: /content/Weapon-Detection/Weapon Project/weapon_detection/train/images
+val: /content/Weapon-Detection/Weapon Project/weapon_detection/val/images
+test: /content/Weapon-Detection/Weapon Project/weapon_detection/test/test
+
+nc: 9
+names:
+  0: Automatic Rifle
+  1: Bazooka
+  2: Grenade Launcher
+  3: Handgun
+  4: Knife
+  5: Shotgun
+  6: SMG
+  7: Sniper
+  8: Sword

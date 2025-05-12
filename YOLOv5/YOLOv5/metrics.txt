@@ -1,0 +1,483 @@
+Evaluation Metrics
+----------------------------------------
+0:
+  box_loss: 0.1279
+  cls_loss: 0.0308
+  dfl_loss: 0.0673
+  precision: 0.0032
+  recall: 0.5620
+  mAP50: 0.0096
+  mAP50-95: 0.0026
+1:
+  box_loss: 0.0852
+  cls_loss: 0.0442
+  dfl_loss: 0.0621
+  precision: 0.1170
+  recall: 0.2110
+  mAP50: 0.0856
+  mAP50-95: 0.0374
+2:
+  box_loss: 0.0619
+  cls_loss: 0.0338
+  dfl_loss: 0.0528
+  precision: 0.1170
+  recall: 0.1010
+  mAP50: 0.0753
+  mAP50-95: 0.0305
+3:
+  box_loss: 0.0612
+  cls_loss: 0.0380
+  dfl_loss: 0.0581
+  precision: 0.0834
+  recall: 0.2440
+  mAP50: 0.1260
+  mAP50-95: 0.0543
+4:
+  box_loss: 0.0509
+  cls_loss: 0.0294
+  dfl_loss: 0.0545
+  precision: 0.1290
+  recall: 0.3520
+  mAP50: 0.1530
+  mAP50-95: 0.0690
+5:
+  box_loss: 0.0635
+  cls_loss: 0.0232
+  dfl_loss: 0.0457
+  precision: 0.1670
+  recall: 0.4350
+  mAP50: 0.1840
+  mAP50-95: 0.0898
+6:
+  box_loss: 0.0585
+  cls_loss: 0.0282
+  dfl_loss: 0.0488
+  precision: 0.1720
+  recall: 0.3090
+  mAP50: 0.1870
+  mAP50-95: 0.0996
+7:
+  box_loss: 0.0446
+  cls_loss: 0.0196
+  dfl_loss: 0.0519
+  precision: 0.1680
+  recall: 0.3910
+  mAP50: 0.2420
+  mAP50-95: 0.1140
+8:
+  box_loss: 0.0372
+  cls_loss: 0.0198
+  dfl_loss: 0.0596
+  precision: 0.2290
+  recall: 0.3970
+  mAP50: 0.2500
+  mAP50-95: 0.1250
+9:
+  box_loss: 0.0527
+  cls_loss: 0.0214
+  dfl_loss: 0.0472
+  precision: 0.2270
+  recall: 0.3740
+  mAP50: 0.2970
+  mAP50-95: 0.1600
+10:
+  box_loss: 0.0383
+  cls_loss: 0.0192
+  dfl_loss: 0.0557
+  precision: 0.2900
+  recall: 0.4560
+  mAP50: 0.3270
+  mAP50-95: 0.1800
+11:
+  box_loss: 0.0408
+  cls_loss: 0.0210
+  dfl_loss: 0.0350
+  precision: 0.2650
+  recall: 0.4200
+  mAP50: 0.3460
+  mAP50-95: 0.1910
+12:
+  box_loss: 0.0468
+  cls_loss: 0.0211
+  dfl_loss: 0.0486
+  precision: 0.2950
+  recall: 0.4860
+  mAP50: 0.3510
+  mAP50-95: 0.1720
+13:
+  box_loss: 0.0401
+  cls_loss: 0.0239
+  dfl_loss: 0.0448
+  precision: 0.3260
+  recall: 0.4900
+  mAP50: 0.3830
+  mAP50-95: 0.1840
+14:
+  box_loss: 0.0380
+  cls_loss: 0.0242
+  dfl_loss: 0.0431
+  precision: 0.4520
+  recall: 0.4360
+  mAP50: 0.4280
+  mAP50-95: 0.2370
+15:
+  box_loss: 0.0607
+  cls_loss: 0.0237
+  dfl_loss: 0.0274
+  precision: 0.4920
+  recall: 0.4510
+  mAP50: 0.4270
+  mAP50-95: 0.2490
+16:
+  box_loss: 0.0437
+  cls_loss: 0.0232
+  dfl_loss: 0.0368
+  precision: 0.3200
+  recall: 0.4680
+  mAP50: 0.4130
+  mAP50-95: 0.2380
+17:
+  box_loss: 0.0403
+  cls_loss: 0.0285
+  dfl_loss: 0.0198
+  precision: 0.4650
+  recall: 0.4350
+  mAP50: 0.4070
+  mAP50-95: 0.2210
+18:
+  box_loss: 0.0438
+  cls_loss: 0.0285
+  dfl_loss: 0.0257
+  precision: 0.4170
+  recall: 0.4960
+  mAP50: 0.4720
+  mAP50-95: 0.2550
+19:
+  box_loss: 0.0255
+  cls_loss: 0.0185
+  dfl_loss: 0.0240
+  precision: 0.4870
+  recall: 0.5030
+  mAP50: 0.4980
+  mAP50-95: 0.2520
+20:
+  box_loss: 0.0359
+  cls_loss: 0.0185
+  dfl_loss: 0.0239
+  precision: 0.5440
+  recall: 0.4350
+  mAP50: 0.4470
+  mAP50-95: 0.2510
+21:
+  box_loss: 0.0391
+  cls_loss: 0.0229
+  dfl_loss: 0.0296
+  precision: 0.7240
+  recall: 0.4650
+  mAP50: 0.5190
+  mAP50-95: 0.3100
+22:
+  box_loss: 0.0350
+  cls_loss: 0.0226
+  dfl_loss: 0.0235
+  precision: 0.6670
+  recall: 0.4280
+  mAP50: 0.4970
+  mAP50-95: 0.2490
+23:
+  box_loss: 0.0392
+  cls_loss: 0.0219
+  dfl_loss: 0.0348
+  precision: 0.5000
+  recall: 0.4970
+  mAP50: 0.5440
+  mAP50-95: 0.3140
+24:
+  box_loss: 0.0345
+  cls_loss: 0.0196
+  dfl_loss: 0.0353
+  precision: 0.3960
+  recall: 0.5430
+  mAP50: 0.5460
+  mAP50-95: 0.3030
+25:
+  box_loss: 0.0417
+  cls_loss: 0.0192
+  dfl_loss: 0.0272
+  precision: 0.4010
+  recall: 0.6030
+  mAP50: 0.5330
+  mAP50-95: 0.3030
+26:
+  box_loss: 0.0344
+  cls_loss: 0.0192
+  dfl_loss: 0.0310
+  precision: 0.5210
+  recall: 0.5660
+  mAP50: 0.5750
+  mAP50-95: 0.3470
+27:
+  box_loss: 0.0360
+  cls_loss: 0.0224
+  dfl_loss: 0.0308
+  precision: 0.4210
+  recall: 0.6050
+  mAP50: 0.5500
+  mAP50-95: 0.3150
+28:
+  box_loss: 0.0407
+  cls_loss: 0.0182
+  dfl_loss: 0.0252
+  precision: 0.4210
+  recall: 0.5960
+  mAP50: 0.5340
+  mAP50-95: 0.3370
+29:
+  box_loss: 0.0390
+  cls_loss: 0.0206
+  dfl_loss: 0.0210
+  precision: 0.4750
+  recall: 0.6140
+  mAP50: 0.6080
+  mAP50-95: 0.3660
+30:
+  box_loss: 0.0390
+  cls_loss: 0.0263
+  dfl_loss: 0.0262
+  precision: 0.5050
+  recall: 0.6110
+  mAP50: 0.6120
+  mAP50-95: 0.3780
+31:
+  box_loss: 0.0375
+  cls_loss: 0.0320
+  dfl_loss: 0.0178
+  precision: 0.5620
+  recall: 0.5680
+  mAP50: 0.6380
+  mAP50-95: 0.3720
+32:
+  box_loss: 0.0326
+  cls_loss: 0.0222
+  dfl_loss: 0.0360
+  precision: 0.5260
+  recall: 0.6270
+  mAP50: 0.6190
+  mAP50-95: 0.3820
+33:
+  box_loss: 0.0167
+  cls_loss: 0.0143
+  dfl_loss: 0.0227
+  precision: 0.5350
+  recall: 0.5880
+  mAP50: 0.6340
+  mAP50-95: 0.3900
+34:
+  box_loss: 0.0402
+  cls_loss: 0.0207
+  dfl_loss: 0.0165
+  precision: 0.5970
+  recall: 0.5480
+  mAP50: 0.6190
+  mAP50-95: 0.3910
+35:
+  box_loss: 0.0329
+  cls_loss: 0.0191
+  dfl_loss: 0.0172
+  precision: 0.5370
+  recall: 0.6430
+  mAP50: 0.6580
+  mAP50-95: 0.4170
+36:
+  box_loss: 0.0461
+  cls_loss: 0.0214
+  dfl_loss: 0.0162
+  precision: 0.6310
+  recall: 0.5980
+  mAP50: 0.6700
+  mAP50-95: 0.4160
+37:
+  box_loss: 0.0402
+  cls_loss: 0.0218
+  dfl_loss: 0.0316
+  precision: 0.6910
+  recall: 0.5810
+  mAP50: 0.6710
+  mAP50-95: 0.4330
+38:
+  box_loss: 0.0336
+  cls_loss: 0.0226
+  dfl_loss: 0.0333
+  precision: 0.6290
+  recall: 0.6830
+  mAP50: 0.6990
+  mAP50-95: 0.4640
+39:
+  box_loss: 0.0339
+  cls_loss: 0.0206
+  dfl_loss: 0.0150
+  precision: 0.5820
+  recall: 0.7050
+  mAP50: 0.6930
+  mAP50-95: 0.4470
+40:
+  box_loss: 0.0268
+  cls_loss: 0.0196
+  dfl_loss: 0.0200
+  precision: 0.7170
+  recall: 0.6900
+  mAP50: 0.7560
+  mAP50-95: 0.5070
+41:
+  box_loss: 0.0335
+  cls_loss: 0.0206
+  dfl_loss: 0.0159
+  precision: 0.6830
+  recall: 0.7110
+  mAP50: 0.7510
+  mAP50-95: 0.4870
+42:
+  box_loss: 0.0405
+  cls_loss: 0.0218
+  dfl_loss: 0.0153
+  precision: 0.6960
+  recall: 0.6850
+  mAP50: 0.7340
+  mAP50-95: 0.4690
+43:
+  box_loss: 0.0430
+  cls_loss: 0.0160
+  dfl_loss: 0.0136
+  precision: 0.7130
+  recall: 0.7260
+  mAP50: 0.7490
+  mAP50-95: 0.5050
+44:
+  box_loss: 0.0442
+  cls_loss: 0.0185
+  dfl_loss: 0.0206
+  precision: 0.7920
+  recall: 0.7400
+  mAP50: 0.8000
+  mAP50-95: 0.5350
+45:
+  box_loss: 0.0274
+  cls_loss: 0.0215
+  dfl_loss: 0.0154
+  precision: 0.7960
+  recall: 0.6510
+  mAP50: 0.7820
+  mAP50-95: 0.5280
+46:
+  box_loss: 0.0283
+  cls_loss: 0.0236
+  dfl_loss: 0.0104
+  precision: 0.7900
+  recall: 0.7280
+  mAP50: 0.7960
+  mAP50-95: 0.5330
+47:
+  box_loss: 0.0324
+  cls_loss: 0.0173
+  dfl_loss: 0.0335
+  precision: 0.7850
+  recall: 0.7360
+  mAP50: 0.7940
+  mAP50-95: 0.5430
+48:
+  box_loss: 0.0435
+  cls_loss: 0.0227
+  dfl_loss: 0.0296
+  precision: 0.7670
+  recall: 0.7170
+  mAP50: 0.7780
+  mAP50-95: 0.5280
+49:
+  box_loss: 0.0343
+  cls_loss: 0.0203
+  dfl_loss: 0.0266
+  precision: 0.7850
+  recall: 0.7180
+  mAP50: 0.7810
+  mAP50-95: 0.5380
+50:
+  box_loss: 0.0176
+  cls_loss: 0.0168
+  dfl_loss: 0.0150
+  precision: 0.7220
+  recall: 0.7680
+  mAP50: 0.7770
+  mAP50-95: 0.5430
+51:
+  box_loss: 0.0302
+  cls_loss: 0.0221
+  dfl_loss: 0.0156
+  precision: 0.7590
+  recall: 0.7480
+  mAP50: 0.7710
+  mAP50-95: 0.5400
+52:
+  box_loss: 0.0415
+  cls_loss: 0.0208
+  dfl_loss: 0.0079
+  precision: 0.8020
+  recall: 0.7150
+  mAP50: 0.7820
+  mAP50-95: 0.5420
+53:
+  box_loss: 0.0254
+  cls_loss: 0.0188
+  dfl_loss: 0.0142
+  precision: 0.7660
+  recall: 0.7420
+  mAP50: 0.7910
+  mAP50-95: 0.5430
+54:
+  box_loss: 0.0222
+  cls_loss: 0.0170
+  dfl_loss: 0.0194
+  precision: 0.7770
+  recall: 0.7580
+  mAP50: 0.7860
+  mAP50-95: 0.5480
+55:
+  box_loss: 0.0239
+  cls_loss: 0.0170
+  dfl_loss: 0.0063
+  precision: 0.7850
+  recall: 0.7620
+  mAP50: 0.7880
+  mAP50-95: 0.5450
+56:
+  box_loss: 0.0389
+  cls_loss: 0.0155
+  dfl_loss: 0.0215
+  precision: 0.7360
+  recall: 0.7870
+  mAP50: 0.7900
+  mAP50-95: 0.5570
+57:
+  box_loss: 0.0290
+  cls_loss: 0.0212
+  dfl_loss: 0.0235
+  precision: 0.7380
+  recall: 0.7780
+  mAP50: 0.7870
+  mAP50-95: 0.5550
+58:
+  box_loss: 0.0254
+  cls_loss: 0.0179
+  dfl_loss: 0.0198
+  precision: 0.7950
+  recall: 0.7540
+  mAP50: 0.7770
+  mAP50-95: 0.5500
+59:
+  box_loss: 0.0297
+  cls_loss: 0.0162
+  dfl_loss: 0.0163
+  precision: 0.7360
+  recall: 0.7860
+  mAP50: 0.7900
+  mAP50-95: 0.5570
+training_time: 2634.6455
