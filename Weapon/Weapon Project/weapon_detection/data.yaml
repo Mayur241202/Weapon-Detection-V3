@@ -1,0 +1,13 @@
+names:
+- Automatic Rifle
+- Bazooka
+- Grenade Launcher
+- Handgun
+- Knife
+- Shotgun
+- SMG
+- Sniper
+- Sword
+nc: 9
+train: /content/drive/MyDrive/Weapon_Detection/weapon_detection/train/images
+val: /content/drive/MyDrive/Weapon_Detection/weapon_detection/val/images
